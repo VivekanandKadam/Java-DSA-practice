@@ -15,7 +15,7 @@ public class MoveAllZerosToEnd {
         for(int i = count;i<arr.length;i++){
             arr[i] = 0;
         }
-        System.out.println("\nAfter move zero to end");
+        System.out.println("\nAfter move zero to end of array");
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }
