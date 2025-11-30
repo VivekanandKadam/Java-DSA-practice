@@ -4,7 +4,7 @@ public class CheckArrayIfSorted {
         boolean asscendingSorted = true;
         boolean desscendingSorted = true;
 
-        System.out.println("Original array");
+        System.out.println("Original array is");
         for(int i = 0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }
