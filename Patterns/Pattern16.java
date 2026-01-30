@@ -8,7 +8,8 @@ public class Pattern16 {
                 first = first + second;
                 second = temp;
             }
-            System.out.println(" ");
+            System.out.println("  ");
+            
         }
     }
 }
